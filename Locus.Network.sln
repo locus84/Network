@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Locus.Network", "Locus.Network\Locus.Network.csproj", "{BEA22F1B-B695-4343-90E4-642DEBD6E9FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{32DADE98-8457-4D9C-9BCA-A108F1372476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BEA22F1B-B695-4343-90E4-642DEBD6E9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEA22F1B-B695-4343-90E4-642DEBD6E9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEA22F1B-B695-4343-90E4-642DEBD6E9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DADE98-8457-4D9C-9BCA-A108F1372476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DADE98-8457-4D9C-9BCA-A108F1372476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DADE98-8457-4D9C-9BCA-A108F1372476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DADE98-8457-4D9C-9BCA-A108F1372476}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
